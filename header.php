@@ -21,7 +21,7 @@
 </head>
 <body>
 <header>
-	<h1>Tamedo Painters</h1>
+	<h1>Olufummy Tamedo Painters</h1>
 	<nav>
 		<div class="topnav" id="myTopnav">
 			<a href='index.php'>Home</a>
